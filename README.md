@@ -1,4 +1,6 @@
 <!-- Header Section -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avik+Kumar+Banerjee!;+A+DevOps+and+DevSecOps+Engineer!" />
 <h1 align="center"><font face="Arial">Hi 👋, I'm Avik Kumar Banerjee a.k.a <a href="https://www.linkedin.com/in/avikkumarbanerjee-cloudman/">AKB</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/avikkumarbanerjee-cloudman/" target="_blank" rel="noreferrer">AVIK</a> is a passionate DevOps Engineer/SRE, working on Cloud and DevOps for 6+ years now. I am working with <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">CISCO </a> for last 5 years as a DevOps/SRE Engineer. </a>Feel free to reach out for any Freelance Projects.</font></h3>
 
